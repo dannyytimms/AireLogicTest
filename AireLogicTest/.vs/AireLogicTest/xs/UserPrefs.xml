@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{353816FE-D352-472C-ADBA-321A43E0DE19}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AireLogicTest/Data Models/AlbumData.cs">
+    <Files>
+      <File FileName="AireLogicTest/Program.cs" Line="8" Column="32" />
+      <File FileName="AireLogicTest/Data Models/ArtistComparisonData.cs" Line="4" Column="62" />
+      <File FileName="AireLogicTest/Data Models/AlbumData.cs" Line="1" Column="1" />
+      <File FileName="AireLogicTest/Data Models/ArtistData.cs" Line="6" Column="47" />
+      <File FileName="AireLogicTest/Data Models/LyricAPIDataContainer.cs" Line="41" Column="6" />
+      <File FileName="AireLogicTest/Data Models/TrackData.cs" Line="4" Column="52" />
+      <File FileName="AireLogicTest/LyricAverager.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AireLogicTest" expanded="True">
+            <Node name="AireLogicTest" expanded="True">
+              <Node name="Data Models" expanded="True">
+                <Node name="AlbumData.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AireLogicTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

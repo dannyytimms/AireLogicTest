@@ -1,0 +1,15 @@
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/bin/Debug/net5.0/AireLogicTest.deps.json
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/bin/Debug/net5.0/AireLogicTest.runtimeconfig.json
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/bin/Debug/net5.0/AireLogicTest.runtimeconfig.dev.json
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/bin/Debug/net5.0/AireLogicTest.dll
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/bin/Debug/net5.0/ref/AireLogicTest.dll
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/bin/Debug/net5.0/AireLogicTest.pdb
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/obj/Debug/net5.0/AireLogicTest.csproj.AssemblyReference.cache
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/obj/Debug/net5.0/AireLogicTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/obj/Debug/net5.0/AireLogicTest.AssemblyInfoInputs.cache
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/obj/Debug/net5.0/AireLogicTest.AssemblyInfo.cs
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/obj/Debug/net5.0/AireLogicTest.csproj.CoreCompileInputs.cache
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/obj/Debug/net5.0/AireLogicTest.dll
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/obj/Debug/net5.0/ref/AireLogicTest.dll
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/obj/Debug/net5.0/AireLogicTest.pdb
+/Users/danieltimms/Desktop/AireLogicTest/AireLogicTest/obj/Debug/net5.0/AireLogicTest.genruntimeconfig.cache
